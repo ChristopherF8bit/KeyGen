@@ -1,0 +1,1 @@
+console.log('Command use: \n    node GenKeys.js\n    node GrabKeys.js')
